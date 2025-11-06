@@ -35,6 +35,6 @@ Raspberry Pi Simulator → IoT Hub → Stream Analytics → Blob Storage → Azu
 **Course:** CSP451 – Week 9 Azure Demo  
 
 ## Demo Video
-🔗 [Unlisted YouTube Link](https://www.youtube.com/your-demo-link)
+🔗 [Unlisted YouTube Link](https://youtu.be/uYMzT2M8emQ)
 
 
